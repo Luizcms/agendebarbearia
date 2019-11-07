@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barbearia</string>
+    <string name="b">r</string>
+    <string name="servicos">Agende seu horário</string>
+
+    <array name="timer">
+        <item>"Cabelo R$20"</item>
+        <item>"Cabelo + Barba R$40"</item>
+        <item>"Barba R$25"</item>
+
+    </array>
+</resources>

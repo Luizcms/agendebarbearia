@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006381452824",
+    "firebase_url": "https://hrbarbearia-26ab4.firebaseio.com",
+    "project_id": "hrbarbearia-26ab4",
+    "storage_bucket": "hrbarbearia-26ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006381452824:android:90e7b180b79268c4",
+        "android_client_info": {
+          "package_name": "com.example.agendebarbearia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006381452824-6maf3a6amrq2difgi0erbs26jkgocq7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXWgKrKtbctE1gZxo-q-lKwFfbiCqzDlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006381452824-6maf3a6amrq2difgi0erbs26jkgocq7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
